@@ -1,2 +1,2 @@
 # game_brickbreaker
-Jogo Brick Breaker da Hashtag Treinamentos
+Jogo Brick Breaker baseado em um jogo da Hashtag Treinamentos
